@@ -1,2 +1,3 @@
 # symmetrical-octo-eureka
-this is my test repo
+This is my test repository
+1st update
